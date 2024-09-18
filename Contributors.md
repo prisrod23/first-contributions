@@ -3,6 +3,7 @@
 - [Jemmyjs](https://github.com/JemmyJs) **My first contribution!**
 - Zara Phukan 
 - [Atul Deshpande](https://github.com/AtulDeshpande09) **I use Arch , BTW**
+- [Prisrod23](https://github.com/prisrod23) **Hey world! Hola Mundo!**
 - [Aasif](https://github.com/aasiflm10/) **Hey there, make your first contribution**
 - Probando mi primera contribución -- Manuel Garcia
 - [Sid Senthil](https://github.com/sidsenthilexe) **Hi everyone!**
